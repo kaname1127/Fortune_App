@@ -1,1 +1,3 @@
 # Fortune_App
+
+おみくじ
